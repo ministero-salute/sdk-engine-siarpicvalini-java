@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<template>
+	<header>siar/header.mustache</header>
+	<footer>siar/footer.mustache</footer>
+	<node>
+		<openTemplate>siar/open_assistenza.mustache</openTemplate>
+		<closeTemplate>siar/close_assistenza.mustache</closeTemplate>
+		<node>
+			<openTemplate>siar/blocco_assistenza.mustache</openTemplate>
+			<comparingKeys>
+				tipo;id_cuni;reg_res;as_res;com_res;val_cod;tipo_cod;ann_nasc;gen;cittad;stato_civ;resp_genit;tit_studio;cond_prof;reg_erog;as_erog;strut_erog;data_pic;sogg_rich;id_rec;perc_ssn;pian_cure;sett_erog;data_valu_ini;pat_princ;pat_conc;liv_auton;grado_mob;dist_cogn;dist_comp;comunic;area_sens;bis_intern;stab_clin;pres_careg;supp_soc;util_dpo;amb_int_prev1;amb_int_prev2;amb_int_prev3;amb_int_prev4;amb_int_prev5;amb_int_prev6;scala_clas_disab1;esito_ril_disab1;scala_clas_disab2;esito_ril_disab2;scala_clas_disab3;esito_ril_disab3;scala_clas_disab4;esito_ril_disab4;scala_clas_disab5;esito_ril_disab5;scala_clas_disab6;esito_ril_disab6;durata_prev;ore_tratt_prev;prof_coinv_mmgpls;prof_coinv_medspec;prof_coinv_inferm;prof_coinv_operss;prof_coinv_fisio;prof_coinv_logop;prof_coinv_terap_neuro;prof_coinv_terap_occup;prof_coinv_psico;prof_coinv_assistsoc;prof_coinv_educprof;prof_coinv_altro
+			</comparingKeys>
+		</node>
+	</node>
+</template>

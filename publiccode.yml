@@ -1,5 +1,6 @@
 publiccodeYmlVersion: "0.4"
-name: sdk-engine-siarpicvalini-java
+name: SDK Flusso Assistenza Riabilitativa Territoriale - Engine PIC & 
+      Valutazione Iniziale
 applicationSuite: SDK
 url: https://github.com/ministero-salute/sdk-engine-siarpicvalini-java
 landingURL: https://github.com/ministero-salute/sdk-engine-siarpicvalini-java
@@ -14,13 +15,14 @@ categories:
 usedBy:
   - Regioni
 developmentStatus: stable
-softwareType: standalone/web
+softwareType: standalone/backend
 description:
   it:
-    localisedName: sdk-engine-siarpicvalini-java
+    localisedName: SDK Flusso Assistenza Riabilitativa Territoriale - Engine PIC & 
+      Valutazione Iniziale
     shortDescription: SDK - Sistema Informativo Assistenza Riabilitativa PIC & 
       Valutazione Iniziale
-    longDescription: Il microservizio ha come scopo l'acquisizione dei dati inviati
+    longDescription: L'SDK ha come scopo l'acquisizione dei dati inviati
       dalle Regioni in merito ai trattamenti riabilitativi erogati, nell'ambito
       dell'assistenza semiresidenziale e residenziale, a carattere intensivo,
       estensivo e di mantenimento di cui all'articolo 34 del decreto del

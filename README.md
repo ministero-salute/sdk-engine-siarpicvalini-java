@@ -300,11 +300,9 @@ Il microservizio può girare su qualsiasi sistema operativo per cui è prevista 
 
 
 
-### Istruzioni per l'installazione
+## Istruzioni per l'installazione
+Per l'installazione e l'avvio dell'engine seguire la documentazione tecnica dettagliata disponibile all'url [`INSTALL.md`](https://github.com/ministero-salute/sdk-utilities-regole-properties/blob/main/INSTALL.md).
 
-
-
-Per l'installazione e l'avvio dell'engine seguire la documentazione tecnica dettagliata disponibile nella cartella [`docs/`](docs/INSTALL.md).
 
 
 ## 📝 Licenza
@@ -319,4 +317,5 @@ Per ulteriori informazioni, contattare:
 - **Service Desk - Ministero della Salute**: servicedesk.mds@medilifegroupspa.com
 - **Amministrazione titolare**: [Ministero della Salute](https://www.salute.gov.it)
 ## mantainer:
+
  Accenture SpA until January 2026
